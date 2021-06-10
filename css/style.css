@@ -461,7 +461,6 @@ ul li {
 
 h2 {
 	text-align: center;
-	color: #e37908;
 }
 
 p{
@@ -482,4 +481,14 @@ p{
 .pic-des{
 	text-align: center;
 	font-size: 12px;
+}
+
+.subtitle{
+	text-align: center;
+	color: #e37908;
+}
+.icon{
+	width:150px;
+	height:60px
+
 }
