@@ -465,7 +465,7 @@ h2 {
 }
 
 p{
-	font-size: 15px;
+	font-size: 18px;
 }
 
 .here {
@@ -475,4 +475,11 @@ p{
 
 #reflections {
 	text-align: center;
+}
+.pic{
+	text-align: center;
+}
+.pic-des{
+	text-align: center;
+	font-size: 12px;
 }
