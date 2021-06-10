@@ -450,6 +450,29 @@ footer p{
 }
 }
 
-.container .problem {
+.container .overview {
+	text-align: center;
+}
+
+ul li {
+	font-size: 25px;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	color: #e37908;
+}
+
+p{
+	font-size: 15px;
+}
+
+.here {
+	color: rgb(0, 208, 255);
+	text-decoration: underline;
+}
+
+#reflections {
 	text-align: center;
 }
